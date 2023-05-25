@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Leaf Check</string>
+    <string name = "symptoms_content_sigatoka">
+        ●Leaves show ellipthical spots where the centre of these spots turns to light grey colour
+        surrounded by yellow halo \n
+        ● At first, light yellow or brownish green streaks can be seen on the midrib of the leaves as
+        well as close to the tip or margin of the leaf lamina. \n
+        ● The spots often coalesce to form large irregular patches of dried tissue. \n
+        ● Rapid drying and defoliation of leaves are the characteristic feature of this disease.\n
+        ● The output eventually decreases as a result of the fruits on the infected plants appearing
+        smaller and possibly ripening too soon.
+    </string>
+
+    <string name="preventions_content_sigatoka">
+        ● Use resistant cultivars.\n
+        ● Remove or burn infected leaves or at least stack them, so the spores cannot be
+        discharged from the lower leaves in the stack.\n
+        ● Use under-canopy (drip) irrigation to reduce splash dispersal.\n
+        ● Lower the humidity as much as possible by preventing the occurrence of puddles and
+        ensuring optimal ventilation in the crop.
+    </string>
+
+    <string name="remedies_content_sigatoka">
+        ● Removal and destruction of affected leaves.\n
+        ● Keep the banana field as weed free and remove the suckers timely.\n
+        ● Avoid planting at close spacing.\n
+        ● Provide proper drainage and avoid water logging in the fields which favours infection.\n
+        ● Spray 3 times with Carbendazim 0.1 per cent or Propicanozole 0.1 % or Mancozeb 0.25%
+        and teepol (sticking agent) at 10-15 days interval, as the disease starting from initial
+        appearance of leaf specks
+    </string>
+
+    <!--    cordana-->
+    <string name="symptoms_content_cordana">● On the upper leaf side, there are leaf spots (up to 10cm), which are oval to diamond shaped, light brown with a yellow border.
+        \n● Frequently spots combine, impacting sizable portions of the leaf which dries up and turns down.
+        \n● They are large pale brown, oval to fusiform necrotic lesions with pale grey concentric ring patterns, with a dark brown border surrounded by a bright yellow halo separating the lesion from the healthy leaf tissue.
+    </string>
+
+
+    <string name="preventions_content_cordana">● Tiny reddish-rusty brown flecks that are most evident on the underside of leaves.
+        \n● These gradually lengthen, widen, and darken to form reddish-brown leaf streaks.
+        \n● The early streaks run parallel to the leaf veins and are more evident on the underside of the leaf.
+    </string>
+
+    <string name="remedies_content_cordana">● Infected leaves should be removed in order to lower disease levels.
+        \n● Keep an eye out for signs in plants, and when necessary, use a licensed fungicide.
+    </string>
+
+    <string name="app_description">In this app , users can identify the disease of the plant with the machine learning model. Users can also get information about the prevention and control methods that can help them to take early action for  maintaining and growing plant .</string>
+    <string name="learn_more">Learn More</string>
+    <string name="references">\n1. https://www.koppert.com/challenges/disease-control/black-sigatoka-disease/\n2. https://horticulturedir.karnataka.gov.in/english\n3. https://udupi.nic.in/en/horticulture/\n4. https://agritech.tnau.ac.in/crop_protection/banana_diseases/crop_prot_crop%20diseases_fruits_banana_8.html</string>
+    <string name="contact_us">
+    1 <b>Shravya V Shet</b>\nshravyavshet@gmail.com\n
+    2 <b>Treena Mellissa Suares</b>\nmelissasuares1@gmail.com\n
+    3 <b>Vaishnavi Kamath B</b>\nkamathvaishnavi1000@gmail.com\n
+    4 <b>Utkarsh Keshari</b>\nkeshariutkarsh2001@gmail.com
+</string>
+</resources>

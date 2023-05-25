@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070793863737",
+    "project_id": "banana-leaf-disease",
+    "storage_bucket": "banana-leaf-disease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070793863737:android:117e3826f734e8642853e8",
+        "android_client_info": {
+          "package_name": "com.example.bananaleafdisease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070793863737-roedvibnquetrma5kaqgm6agip8urdkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananaleafdisease",
+            "certificate_hash": "81d5ade87b7535c027d4c7d63db907c0307f1e12"
+          }
+        },
+        {
+          "client_id": "1070793863737-07sq5hqnfbdr31q9d8qblclib96dnnjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIfKBQfPuhDMb5KgfnkCis-44Ac0O6uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070793863737-07sq5hqnfbdr31q9d8qblclib96dnnjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
